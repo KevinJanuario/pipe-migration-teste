@@ -13,4 +13,4 @@ primeiro build:
 
 primeiro deploy:
   stage: deploy
-  enviroment: staging
+  environment: staging
